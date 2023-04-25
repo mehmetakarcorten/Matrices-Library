@@ -1,3 +1,5 @@
+from fractions import Fraction
+
 class Matrix:
 	__slots__ = 'matrix','ord'
 
