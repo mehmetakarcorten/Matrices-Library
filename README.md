@@ -6,7 +6,7 @@ I love practical examples rather than explainations, so you can have a look at t
 
 ```py
 #Simply create an object by using example below
-#MATRICES ARE ROW MAJOR#
+#MATRICES ARE ROW MAJOR
 
 from Matrices import Matrix
 
