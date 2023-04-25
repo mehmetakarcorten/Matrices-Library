@@ -5,6 +5,9 @@ A library for matrices calculations, I created this library with the intention o
 I love practical examples rather than explainations, so you can have a look at the example below. The library is very straight forward and easy to use.
 
 ```py
+#Simply create an object by using example below
+#MATRICES ARE ROW MAJOR#
+
 from Matrices import Matrix
 
 a = Matrix((
