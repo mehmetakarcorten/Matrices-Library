@@ -1,5 +1,5 @@
 # Matrices Library
-A library for matrices calculations, I created this library with the intention of challenging myself. I am very aware of libraries capable of performing these calculations such as `numpy` however I still wanted to use some of the knowledge I had gained from my further education to use.
+A library for matrix calculations, I created this library with the intention of challenging myself. I am very aware of libraries capable of performing these calculations such as `numpy` however I still wanted to use some of the knowledge I had gained from my further education to use.
 
 # How does it work?
 I love practical examples rather than explainations, so you can have a look at the example below. The library is very straight forward and easy to use.
